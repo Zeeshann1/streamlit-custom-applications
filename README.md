@@ -49,6 +49,6 @@ python streamlitWrapper.py
 ```
 
 I have created subprocess method (streamlitWrapper) to direct run the streamlit program without using "streamlit run app.py". direct use python streamlitWrapper.py
-## image
+## Result
 <img src="Demo.png"/>
 
