@@ -54,6 +54,6 @@ Remove Backgroud
 
 <img src="Demo.png"/>
 
-Face Detection in Webcam Results
+Face Detection in Webcam
 
 <img src="face-detection-result.png"/>
