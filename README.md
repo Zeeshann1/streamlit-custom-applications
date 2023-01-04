@@ -50,5 +50,6 @@ python streamlitWrapper.py
 
 I have created subprocess method (streamlitWrapper) to direct run the streamlit program without using "streamlit run app.py". direct use python streamlitWrapper.py
 ## Result
+Remove Backgroud
 <img src="Demo.png"/>
 
