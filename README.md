@@ -49,7 +49,11 @@ python streamlitWrapper.py
 ```
 
 I have created subprocess method (streamlitWrapper) to direct run the streamlit program without using "streamlit run app.py". direct use python streamlitWrapper.py
-## Result
+## Results
 Remove Backgroud
+
 <img src="Demo.png"/>
 
+Face Detection in Webcam Results
+
+<img src="face-detection-result.png"/>
